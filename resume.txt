@@ -1,0 +1,27 @@
+EntryLevel,Computer,Programmer,resume,template
+Nicholas,Ferraro,
+Sometown,
+
+COMPUTER,PROGRAMMER
+
+ENTRY,LEVEL,COMPUTER,PROGRAMMER
+
+Honors,student,of,ABC,University’s,BS,in,IT,program,academic,credentials,are,reinforced,by,programming,experience,gained,during,internship,with,ABC,Company,
+Consistently,commended,by,professors,and,internship,supervisor,for,programming,abilities,grasp,of,multiple,technologies,and,attention,to,detail,strong,knowledge,of,object-oriented,programming,and,application,development, tools,using,Microsoft,VB,net,C#,.Net,C++,ASP.Net,Python,and,VBA,
+Known,as,a,self-starter,team player,and,multitasker--strive,to,consistently,exceed,expectations,
+Education,
+ 
+ABC,UNIVERSITY,Sometown,NH,
+Bachelor,of,Science,Major,in,Information,Technology,Program,Currently,Enrolled,
+
+Honors,Graduated,cum,laude,inductee,Golden,Key,Honor,Society,recipient,John,Doe,Academic,Scholarship,Dean’s,List,2009,2010,2011
+Senior,Project,earned,“A”,grade,on,capstone,project,as,co-developer,of,Web-based,customized,enterprise,software,solution,that,integrated,business,processes,for,a,nonprofit,organization.Delivered,turnkey,application,that,reduced,manual,data,entry,saving,hundreds,of,personnel,hours,monthly,
+Course Highlights,Enterprise,Application,Development,Security,Java,C,VB,Programming,IT,Project,Management,Database,Programming,Web,Design,Computer,Architecture,
+Internship,
+
+ABC,Company,Sometown,NH
+Computer,Programmer,Intern,2016,to,Present,
+Programming/Languages: VB.Net,C#,.Net,C,C++,Python,VBA,Java,Visual,Basic,SharePoint,PHP,MySQL,HTML,Ant
+Volunteer,Work,
+Volunteered,during,summers,for,Habitat,for,Humanity,and,ABC,Homeless,Shelter
+midlevel,computer,programmer,resume,sample,and,an,experienced,computer,programmer, 
